@@ -32,13 +32,10 @@ endpoint_add_udp "0.0.0.0:30120"</br>
 ensure AGS-AntiDDoS</br>
 exec resources/AGS-AntiDDoS/ags.cfg
 </br>
-
-#  Do not change anything,
-# If you change the information, the service will be stopped .</br>
+</br>
 </br>
  </br>
  </br>
-# How to buy the service?
 </br>
 </br>
 By: Kardah
